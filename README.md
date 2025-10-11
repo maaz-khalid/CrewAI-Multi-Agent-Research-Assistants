@@ -66,6 +66,3 @@ crewai/
 ├── requirements.txt
 └── .env          # API keys
 ```
-
-
-*Built with ❤️ using CrewAI framework*
