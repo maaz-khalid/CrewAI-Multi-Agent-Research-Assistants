@@ -65,7 +65,7 @@ crewai/
 ├── crew.py        # Main execution script
 ├── requirements.txt
 └── .env          # API keys
+```
 
----
 
 *Built with ❤️ using CrewAI framework*
